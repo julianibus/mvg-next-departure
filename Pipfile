@@ -5,10 +5,7 @@ name = "pypi"
 
 [packages]
 flask = "*"
-mvg = "*"
 requests = "*"
-pitz = "*"
-
 [dev-packages]
 
 [requires]
